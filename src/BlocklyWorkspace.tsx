@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import useBlocklyWorkspace from "./useBlocklyWorkspace";
-import {BlocklyWorkspaceProps} from "./BlocklyWorkspaceProps";
+import { BlocklyWorkspaceProps } from "./BlocklyWorkspaceProps";
 
 const propTypes = {
   initialXml: PropTypes.string,
